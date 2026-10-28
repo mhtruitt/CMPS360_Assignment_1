@@ -26,7 +26,7 @@ java StudentGradeCalculator         # runs the compiled bytecode on the JVM
 ## Expected output
 
 ```
-Student: Marcus Rivera
+Student: Morgan Truitt
 Major: Information Systems
 Course: Mobile Application Development
 
